@@ -28,3 +28,6 @@ benchmarks/graphs
 
 # Environment
 .env
+
+# public
+public/images/*
